@@ -43,7 +43,7 @@ CREATE TABLE OrderItems (
 INSERT INTO Categories (CategoryName)
 VALUES ('Electronics'), ('Food'), ('Books'), ('Clothes');
 
--- Customers (4)
+
 INSERT INTO Customers (FullName, City)
 VALUES 
 ('Ali Veliyev', 'Baku'),
